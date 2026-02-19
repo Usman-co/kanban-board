@@ -1,9 +1,9 @@
-"homepage": "https://usman-co.github.io/kanban-board",
 {
   "name": "dnd-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://usman-co.github.io/kanban-board",
   "scripts": {
   "dev": "vite",
   "build": "tsc -b && vite build",
